@@ -17,8 +17,8 @@
 
 - ⚡ Fun fact: **I dont take life too seriously, and neither should you.**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/adam_deane_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adam_deane_code" height="30" width="40" /></a>
 </p>
 
