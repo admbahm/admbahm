@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adam.deane@proton.me**
 
-- ⚡ Fun fact **I dont take life too seriously, and neither should you.**
+- ⚡ Fun fact: **I dont take life too seriously, and neither should you.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
