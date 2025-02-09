@@ -63,5 +63,5 @@
 ---
 
 ## 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Deane-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adamdeane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Deane-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/adamdeane](https://www.linkedin.com/in/adam-deane-93456927/))
 [![Email](https://img.shields.io/badge/Email-adam.deane@proton.me-blue?style=for-the-badge&logo=gmail)](mailto:adam.deane@proton.me)
