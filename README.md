@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🏗 **Building:** [CapableGaming](https://capablegaming.com) — A gaming & social resource for neurodivergent children.
+- 🏗 **Building:** [CapableGaming](https://capablegaming.com) — A gaming & social resource for neurodivergent children and their families.
 - 📚 **Learning:** **Ruby on Rails** | **Google Cloud Platform (GCP)** | **Cloud-Native Development**
 - 🛠 **Tinkering with:** Mobile apps (iOS & Android), DevOps, and backend services.
 - 💡 **Fun fact:** Debugging is like solving a mystery—one breakpoint at a time.
