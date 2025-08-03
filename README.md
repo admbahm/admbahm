@@ -7,7 +7,7 @@
 
 - 📱 **Bridging mobile & backend** — building cloud-powered mobile applications with robust infrastructure.
 - ☁️ **Integrating DevOps & automation** into mobile workflows for scalable, efficient deployments.
-- 📚 **Currently Exploring:** 📚 Currently Exploring: **AIOps** for proactive monitoring | **Google Cloud Platform (GCP)** | **Kubernetes (GKE)**.
+- 📚 **Currently Exploring:** 📚 **AIOps** for proactive monitoring | **Google Cloud Platform (GCP)** | **Kubernetes (GKE)**.
 - 🛠 **Solving problems at scale** with cloud, automation, and mobile-first development.
 - 🎯 **What I enjoy:** Building, optimizing, and fixing—without the stress of management.
 
