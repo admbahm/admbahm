@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Adam Deane</h1>
-<h3 align="center">Mobile Engineer | Cloud Backend | Automation Enthusiast</h3>
+<h3 align="center">Cloud & DevOps Engineer | AIOps & Automation | Infrastructure</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 - 📱 **Bridging mobile & backend** — building cloud-powered mobile applications with robust infrastructure.
 - ☁️ **Integrating DevOps & automation** into mobile workflows for scalable, efficient deployments.
-- 📚 **Currently Exploring:** **Google Cloud Platform (GCP)** | **Kubernetes (GKE)** | **CI/CD for Mobile & Backend**.
+- 📚 **Currently Exploring:** 📚 Currently Exploring: **AIOps** for proactive monitoring | **Google Cloud Platform (GCP)** | **Kubernetes (GKE)**.
 - 🛠 **Solving problems at scale** with cloud, automation, and mobile-first development.
 - 🎯 **What I enjoy:** Building, optimizing, and fixing—without the stress of management.
 
